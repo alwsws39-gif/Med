@@ -1,0 +1,6 @@
+{
+  "name": "MedPath AI",
+  "description": "نظام التوجيه والفرز الطبي الذكي للمرضى - إرشاد وتوجيه باللغة العربية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
